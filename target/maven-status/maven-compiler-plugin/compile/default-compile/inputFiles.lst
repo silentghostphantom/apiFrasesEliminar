@@ -1,0 +1,6 @@
+/Users/darkdestiny/IdeaProjects/Frases/src/main/java/com/ipn/mx/frases/FrasesApplication.java
+/Users/darkdestiny/IdeaProjects/Frases/src/main/java/com/ipn/mx/frases/application/FraseService.java
+/Users/darkdestiny/IdeaProjects/Frases/src/main/java/com/ipn/mx/frases/application/impl/FraseServiceImpl.java
+/Users/darkdestiny/IdeaProjects/Frases/src/main/java/com/ipn/mx/frases/domain/entities/Frase.java
+/Users/darkdestiny/IdeaProjects/Frases/src/main/java/com/ipn/mx/frases/domain/repository/FraseRepository.java
+/Users/darkdestiny/IdeaProjects/Frases/src/main/java/com/ipn/mx/frases/infrastructure/FraseController.java
